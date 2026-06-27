@@ -1,9 +1,0 @@
-Expense report - Warner Brothers
-===================================
-
-actors: $60000000
-cameras: $5000000
-studio: $2500000
-
-Total spendings: $67500000
-Number of expenses: 3
